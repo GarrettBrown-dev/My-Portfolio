@@ -18,19 +18,8 @@ h2 {font-size: x-large;
   margin-bottom: 20px;
   width: 85%;
   box-sizing: border-box;
+  float: center
 }
-
-.box-2 {
-  border: 4px solid indigo;
-  padding: 10px;
-  background-color: white;
-  display: block;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width: 45%;
-  box-sizing: border-box;
-  }
 
 .centered-image {
   margin: auto;
