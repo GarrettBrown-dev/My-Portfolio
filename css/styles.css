@@ -3,6 +3,7 @@ h1 {font-size: xx-large;
 }
 
 h2 {font-size: x-large;
+  text-align: center;
 }
 
 .highlight {color: red
@@ -24,6 +25,5 @@ h2 {font-size: x-large;
 .centered-image {
   margin: auto;
   width: 50%;
-  height: auto;
   display: block;
 }
