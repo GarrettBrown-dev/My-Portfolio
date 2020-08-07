@@ -12,6 +12,7 @@ _{ This is intended as the portfolio for developer Garrett Brown. It is to be a 
 
 * _Find index.html in included file._
 * _drag and drop into a new tab in your browser._
+* _The URL can also be found here!: https://garrettbrown-dev.github.io/My-Portfolio/_
 
 ## Known Bugs
 
