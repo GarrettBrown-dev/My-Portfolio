@@ -1,6 +1,6 @@
-# _{Garrett's Portfolio Page!}_
+# _Garrett's Portfolio Page!_
 
-#### _{Portfolio of Garrett Brown's projects as well as brief info.}, {08/07/2020}_
+#### _Portfolio of Garrett Brown's projects as well as brief info., 08/07/2020_
 
 #### By _**Garrett Brown**_
 
@@ -28,7 +28,7 @@ _Created predominantly through HTML and CSS along with CSS Bootstrap assets._
 
 ### License
 
-Copyright (c) [2020] [Garrett Brown]
+*Copyright (c) [2020] [Garrett Brown]*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
