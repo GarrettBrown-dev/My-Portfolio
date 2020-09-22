@@ -22,8 +22,8 @@ h2 {font-size: x-large;
   float: center
 }
 
-.centered-image {
-  margin: auto;
-  width: 50%;
+.image {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
