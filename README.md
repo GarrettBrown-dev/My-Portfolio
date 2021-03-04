@@ -1,6 +1,6 @@
 # _Garrett's Portfolio Page!_
 
-#### _Portfolio of Garrett Brown's projects as well as brief info., 08/07/2020_
+#### _Portfolio of Garrett Brown's projects as well as brief info. 01/07/2021_
 
 #### By _**Garrett Brown**_
 
