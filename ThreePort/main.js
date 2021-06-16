@@ -60,6 +60,17 @@ Array(200).fill().forEach(addStar);
 const spaceTexture = new THREE.TextureLoader().load("space.jpg");
 scene.background = spaceTexture;
 
+//Me Squared
+
+const garrettTexture = new THREE.TextureLoader().load("Portfolio-Pic.jpg");
+
+const garrett = new THREE.Mesh(
+  new THREE.BoxGeometry(3, 3, 3),
+  new THREE.MeshBasicMaterial({ map: garrettTexture })
+);
+
+scene.add(garrett);
+
 function animate() {
   requestAnimationFrame(animate);
 
