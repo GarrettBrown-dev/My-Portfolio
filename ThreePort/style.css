@@ -78,3 +78,7 @@ blockquote p {
 .left {
   grid-column: 6 / 12;
 }
+
+.highlight {
+  color: red;
+}
