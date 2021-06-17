@@ -24,7 +24,7 @@ renderer.render(scene, camera);
 
 const geometry = new THREE.TorusGeometry(10, 3, 16, 100);
 const material = new THREE.MeshStandardMaterial({
-  color: 0xff6347,
+  color: 0x130152,
 });
 const torus = new THREE.Mesh(geometry, material);
 
@@ -105,8 +105,7 @@ document.body.onscroll = moveCamera;
 function animate() {
   requestAnimationFrame(animate);
 
-  torus.rotation.x += 0.01;
-  torus.rotation.y += 0.005;
+  torus.rotation.y += 0.01;
   torus.rotation.z += 0.01;
 
   controls.update();
